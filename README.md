@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **stammer detection model**
 
-- 🌱 I’m currently learning **Deep learning, Reactjs, smart contracts**
+- 🌱 I’m currently learning **Web dev, Reactjs, smart contracts**
 
-- 💬 Ask me about **Solidity, Web-dev, AI**
+- 💬 Ask me about **Solidity, Web-dev, AI, Java**
 
 - 📫 How to reach me **parthshethji2693@gmail.com**
 
