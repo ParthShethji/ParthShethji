@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **stammer detection model**
+- 🔭 I’m currently working on **Data Structures and Algorithm**
 
-- 🌱 I’m currently learning **Web dev, Reactjs, smart contracts**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Solidity, Web-dev, AI, Java**
+- 💬 Ask me about **Solidity, Web-dev, AI, Java, Web dev, Reactjs, smart contracts**
 
 - 📫 How to reach me **parthshethji2693@gmail.com**
 
