@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithm**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Large Language Models**
 
 - 💬 Ask me about **Solidity, Web-dev, AI, Java, Web dev, Reactjs, smart contracts**
 
