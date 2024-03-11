@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithm**
+- 🔭 I’m currently working on a project that **seamlessly converts web2 site to web3**
 
 - 🌱 I’m currently learning **Large Language Models**
 
