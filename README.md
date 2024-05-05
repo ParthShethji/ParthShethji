@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on a project that **seamlessly converts web2 site to web3**
 
-- 🌱 I’m currently learning **Large Language Models**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Solidity, Web-dev, AI, Java, Web dev, Reactjs, smart contracts**
+- 💬 Ask me about **Solidity, Web-dev, AI, Java, Web dev, Reactjs, smart contracts, Large Language Models**
 
 - 📫 How to reach me **parthshethji2693@gmail.com**
 
