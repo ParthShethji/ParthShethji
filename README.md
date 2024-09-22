@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on a project that **seamlessly converts web2 site to web3**
+- 🔭 I’m currently working on a project that **Finds end receiver in crypto Transactions**
 
-- 🌱 I’m currently learning **Mpve**
+- 🌱 I’m currently learning **Fine Tuning LLMs**
 
-- 💬 Ask me about **Web3, Web-dev, AI, Java, Data Science, Large Language Models**
+- 💬 Ask me about **Deep Learning, Machine learning, Web3, Web-dev, Generative AI, Java, Data Science, Large Language Models**
 
 - 📫 How to reach me **parthshethji2693@gmail.com**
 
