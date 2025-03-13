@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a project that **Finds end receiver in crypto Transactions**
 
-- 🌱 I’m currently learning **Fine Tuning LLMs**
+- 🌱 I’m currently learning **RAG & Agentic AI**
 
 - 💬 Ask me about **Deep Learning, Machine learning, Web3, Web-dev, Generative AI, Java, Data Science, Large Language Models**
 
