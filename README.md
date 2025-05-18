@@ -1,8 +1,9 @@
 <h1 align="center">Hola 👋, I'm Parth Shethji</h1>
 <h3 align="center">A neighborhood dev 🕸️ automating the world with smart contracts and AI. I love mixing Web2 and Web3 🌐, building smart contracts, AI tools, and backend systems. Always learning, always creating cool stuff! </h3>
 
+<br>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="coding" width=full />
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="coding" width=full height="400"/>
 </p>
 
 
